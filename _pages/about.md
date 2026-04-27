@@ -3,14 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle:
-  <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+  <a href='#'>Clinical psychologist</a>. Pontificia Universidad Católica del Perú
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Frankfurt, Germany</p>
+    <p>gyr.emilia@gmail.com</p>
     <p>Peru: +51 984165422</p>
     <p>Germany: +49 1575 5047718</p>
 
@@ -35,13 +35,4 @@ psychoanalysis, and neuroscience research.
 
 Link [linkedin](https://www.linkedin.com/in/emilia-gyr-4bb0a4ab/).
 
-# Put your address / P.O. box / other info right below your picture.
 
-You can also disable any of these elements by editing `profile` property of the YAML
-header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will
-render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use
-[Font Awesome icons](https://fontawesome.com/) and
-[Academicons](https://jpswalsh.github.io/academicons/), like the ones below. All
-icons are pulled from the free version so you don't need to worry about licensing.
