@@ -40,6 +40,8 @@ bookshelf:
   enabled: false # hide bookshelf section
 ---
 
+## 𝚿
+
 Psychologist & Neuroscience Researcher Emilia Gyr is a psychologist and early-career
 researcher specializing in the study of emotions, social interaction, and their
 neurobiological foundations. She brings together expertise in clinical psychology,
