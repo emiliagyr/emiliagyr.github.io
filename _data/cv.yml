@@ -28,7 +28,7 @@ cv:
   sections:
     Education:
       - institution: Pontificia Universidad Catolica del Peru PUCP
-        location: Lima, Peru
+        location: Lima, PE
         url: https://www.pucp.edu.pe
         area: Psychoanalytic Clinical Intervention
         studyType: MA
@@ -41,7 +41,7 @@ cv:
               Insight Episodes"
 
       - institution: Universidad Peruana Cayetano Heredia UPCH
-        location: Lima, Peru
+        location: Lima, PE
         area: Neuroscience
         studyType: MSc
         start_date: 2019
@@ -54,7 +54,7 @@ cv:
               parkinsonian symptoms in a Haloperidol rat model"
 
       - institution: Tuebingen Universitat
-        location: Baden-Wutemberg, Germany
+        location: Baden-Wutemberg, DE
         area: Neuroscience
         studyType: Academic exchange
         start_date: 2015
@@ -64,7 +64,7 @@ cv:
           - Perception, cognition and behavior
 
       - institution: Pontificia Universidad Catolica del Peru PUCP
-        location: Lima, Peru
+        location: Lima, PE
         url: https://www.pucp.edu.pe
         area: Clinical psychology
         studyType: BA
