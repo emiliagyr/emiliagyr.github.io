@@ -26,6 +26,18 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+repositories:
+  enabled: false # hide repositories section
+
+teaching:
+  enabled: false # hide teaching section
+
+people:
+  enabled: false # hide people section
+
+bookshelf:
+  enabled: false # hide bookshelf section
 ---
 
 Psychologist & Neuroscience Researcher Emilia Gyr is a psychologist and early-career
@@ -34,5 +46,4 @@ neurobiological foundations. She brings together expertise in clinical psycholog
 psychoanalysis, and neuroscience research.
 
 Link [linkedin](https://www.linkedin.com/in/emilia-gyr-4bb0a4ab/).
-
 
