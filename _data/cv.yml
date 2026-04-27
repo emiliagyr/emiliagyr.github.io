@@ -168,17 +168,17 @@ cv:
         summary: "Intermediate"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Behavioral Neuroscience and Behavioral Disorders School 
+        date: 09-2024
+        issuer: IBRO
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Monitoring and manipulating the affective state: new perspectives on neurotechnologies and AI tools
+        date: 08-2024
+        issuer: FENS – Chen Institute – NeuroL´eman Summer School 
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Computational neuroscience
+        date: 01-2024
+        issuer: NeuroMatch Academy
         icon: fa-solid fa-envelope
