@@ -23,28 +23,47 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Pontificia Universidad Catolica del Peru PUCP 
+        location: Lima, Peru
+        url: https://www.pucp.edu.pe
+        area: Psychoanalytic Clinical Intervention 
+        studyType: MA
+        start_date: 2022
+        end_date: 2025
+        score: "Graduated with honors"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis project: Beyond the Therapist’s Silence: Mentalization and Affective Gestural Expression in the Therapeutic Dyad During Insight Episodes"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Universidad Peruana Cayetano Heredia UPCH
+        location: Lima, Peru
+        area: Neuroscience
+        studyType: MSc
+        start_date: 2019
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - Thesis part of a multidisciplinary research project financed by FONDECYT and the World Bank ”Research model for the production of functional foods that prevent neurodegenerative diseases” (registration 60874)
+          - Thesis project: “Synthetic macamide MACOMCH-01 effect on parkinsonian symptoms in a Haloperidol rat model”
+
+- institution: Tuebingen Universitat
+        location: Baden-Wutemberg, Germany
+        area: Neuroscience
+        studyType: Academic exchange
+        start_date: 2015
+        end_date: 
+        highlights:
+          - Neurocognition of numbers
+          - Perception, cognition and behavior
+          
+      - institution: Pontificia Universidad Catolica del Peru PUCP 
+        location: Lima, Peru
+        url: https://www.pucp.edu.pe
+        area: Clinical psychology
+        studyType: BA
+        start_date: 2012
+        end_date: 2018
+        highlights:
+          - "Thesis project: “Parental bond and personal agency and empowerment in students of a private university in Lima”"
+
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
