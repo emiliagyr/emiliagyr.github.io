@@ -42,6 +42,7 @@ cv:
 
       - institution: Universidad Peruana Cayetano Heredia UPCH
         location: Lima, PE
+        url: https://cayetano.edu.pe
         area: Neuroscience
         studyType: MSc
         start_date: 2019
@@ -77,7 +78,7 @@ cv:
     Experience:
       - company: Max Planck Neurogenetics Research Unit
         position: Research assistant
-        location: Frankfurt, GE
+        location: Frankfurt, DE
         start_date: 2024
         end_date: present
         summary:
@@ -131,9 +132,7 @@ cv:
         start_date: 2020
         end_date: 2021
         summary:
-          "Evaluation and orientation of graduated personnel from military
-          schools. Development of an evaluation program for recruits who
-          perform voluntary military service"
+          "Evaluation and orientation of graduated personnel from military schools. Development of an evaluation program for recruits who perform voluntary military service"
 
       - company: Victor Larco Herrera Psychiatric Hospital
         position: Psychology intern
@@ -151,7 +150,7 @@ cv:
           the future"
         authors:
           - Emilia Gyr
-        date: 21-06-2025
+        date: 21/06/2025
         awarder: International Neuropsychoanalysis Society
         summary:
           "Poster name: Mentalization and Affective Gestural Expression in
