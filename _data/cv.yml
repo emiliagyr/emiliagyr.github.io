@@ -4,7 +4,11 @@ cv:
   email: gyr.emilia@gmail.com
   location: Frankfurt, DE
   image: ""
-  summary: I am a clinical psychologist and researcher specializing in the intersection of psychoanalysis and behavioral neuroscience. My work spans from experimental research in animal models to the development of neurocomputational profiles for clinical populations.
+  summary:
+    I am a clinical psychologist and researcher specializing in the
+    intersection of psychoanalysis and behavioral neuroscience. My work spans
+    from experimental research in animal models to translational clinical
+    applications.
 
   social_networks:
     - network: X
@@ -15,24 +19,26 @@ cv:
       username: example
 
   address:
-    street: 
+    street:
     city: Frankfurt
     region: Germany
-    postalCode: 
+    postalCode:
     countryCode: DE
 
   sections:
     Education:
-      - institution: Pontificia Universidad Catolica del Peru PUCP 
+      - institution: Pontificia Universidad Catolica del Peru PUCP
         location: Lima, Peru
         url: https://www.pucp.edu.pe
-        area: Psychoanalytic Clinical Intervention 
+        area: Psychoanalytic Clinical Intervention
         studyType: MA
         start_date: 2022
         end_date: 2025
         score: "Graduated with honors"
         highlights:
-          - "Thesis project: Beyond the Therapist’s Silence: Mentalization and Affective Gestural Expression in the Therapeutic Dyad During Insight Episodes"
+          - "Thesis project: Beyond the Therapist's Silence: Mentalization
+              and Affective Gestural Expression in the Therapeutic Dyad During
+              Insight Episodes"
 
       - institution: Universidad Peruana Cayetano Heredia UPCH
         location: Lima, Peru
@@ -41,20 +47,23 @@ cv:
         start_date: 2019
         end_date: 2023
         highlights:
-          - Thesis part of a multidisciplinary research project financed by FONDECYT and the World Bank ”Research model for the production of functional foods that prevent neurodegenerative diseases” (registration 60874)
-          - Thesis project: “Synthetic macamide MACOMCH-01 effect on parkinsonian symptoms in a Haloperidol rat model”
+          - "Thesis part of a multidisciplinary research project financed by
+              FONDECYT and the World Bank: Research model for the production of
+              functional foods that prevent neurodegenerative diseases"
+          - "Thesis project: Synthetic macamide MACOMCH-01 effect on
+              parkinsonian symptoms in a Haloperidol rat model"
 
-- institution: Tuebingen Universitat
+      - institution: Tuebingen Universitat
         location: Baden-Wutemberg, Germany
         area: Neuroscience
         studyType: Academic exchange
         start_date: 2015
-        end_date: 
+        end_date:
         highlights:
           - Neurocognition of numbers
           - Perception, cognition and behavior
-          
-      - institution: Pontificia Universidad Catolica del Peru PUCP 
+
+      - institution: Pontificia Universidad Catolica del Peru PUCP
         location: Lima, Peru
         url: https://www.pucp.edu.pe
         area: Clinical psychology
@@ -62,8 +71,8 @@ cv:
         start_date: 2012
         end_date: 2018
         highlights:
-          - "Thesis project: “Parental bond and personal agency and empowerment in students of a private university in Lima”"
-
+          - "Thesis project: Parental bond and personal agency and
+              empowerment in students of a private university in Lima"
 
     Experience:
       - company: Max Planck Neurogenetics Research Unit
@@ -71,11 +80,16 @@ cv:
         location: Frankfurt, GE
         start_date: 2024
         end_date: present
-        summary: Dec 2024 – Mar 2025. Focused on advanced laboratory techniques, including tissue collection and immunohistochemistry. Sep 2025 – Present. Currently conducting specialized research on the olfactory system of the Octodon degu.
+        summary:
+          "Dec 2024 – Mar 2025. Focused on advanced laboratory techniques,
+          including tissue collection and immunohistochemistry. Sep 2025 –
+          Present. Currently conducting specialized research in molecular
+          genetics."
+        highlights:
           - Inmunohistochemistry, fluorescence microscopy and genotyping
           - FELASA course in rodent handling and hand-on training
 
-      - company: Pontificia Universidad Catolica del Peru PUCP 
+      - company: Pontificia Universidad Catolica del Peru PUCP
         position: Lecturer
         location: Lima, PE
         start_date: 2025
@@ -86,96 +100,121 @@ cv:
           - Behavioural Neuroscience (Undergraduate level)
           - Neuropsychology (Undergraduate level)
           - Thesis advisor
-          
-      - company: Cognitive Computational Neuroscience Lab / Pontificia Universidad Catolica del Peru PUCP 
+
+      - company: Cognitive Computational Neuroscience Lab / Pontificia
+          Universidad Catolica del Peru PUCP
         position: Chief operating officer
         location: Lima, PE
         start_date: 2023
         end_date: 2025
-        summary: I provide technical and methodological support to researchers regarding the use of specialized equipment such as EEG, audiometers, and pulsometers. My role includes developing instructional materials to facilitate research project development for students, teachers, and researchers, as well as designing and implementing laboratory training programs for volunteers. Additionally, I actively contribute to the writing of research grants and project proposals.
-        
-      - company: Pontificia Universidad Catolica del Peru PUCP 
+        summary:
+          "I provide technical and methodological support to researchers
+          regarding the use of specialized equipment such as EEG, audiometers,
+          and pulsometers. My role includes developing instructions and
+          protocols."
+
+      - company: Pontificia Universidad Catolica del Peru PUCP
         position: Teaching assistant
         location: Lima, PE
         start_date: 2022
         end_date: 2025
 
-      - company: Andean University of Cusco UAC 
+      - company: Andean University of Cusco UAC
         position: Research assistant
         location: Cusco, PE
         start_date: 2021
         end_date: 2022
 
-      - company: Peruvian Air Force Hospital ”Las Palmas” 
+      - company: Peruvian Air Force Hospital "Las Palmas"
         position: Clinical psychologist
         location: Lima, PE
         start_date: 2020
         end_date: 2021
-        summary: Evaluation and orientation of graduated personnel from military schools. Development of an evaluation program for recruits who perform voluntary military service
-        
-      - company: Victor Larco Herrera Psychiatric Hospital 
+        summary:
+          "Evaluation and orientation of graduated personnel from military
+          schools. Development of an evaluation program for recruits who
+          perform voluntary military service"
+
+      - company: Victor Larco Herrera Psychiatric Hospital
         position: Psychology intern
         location: Lima, PE
         start_date: 2019
         end_date: 2020
-        summary:  Adult clinical evaluation. Individual psychotherapy for adults with schizophrenia, bipolarity, emotional instability and addictions.
+        summary:
+          "Adult clinical evaluation. Individual psychotherapy for adults
+          with schizophrenia, bipolarity, emotional instability and
+          addictions."
 
     Awards:
-      - title: Best Poster Prize at congress "Early mental developmet: Incubating the future"
+      - title:
+          "Best Poster Prize at congress Early mental development: Incubating
+          the future"
         authors:
           - Emilia Gyr
         date: 21-06-2025
         awarder: International Neuropsychoanalysis Society
-        summary: Poster name: Mentalization and Affective Gestural Expression in the Therapeutic Dyad During Insight Episodes
+        summary:
+          "Poster name: Mentalization and Affective Gestural Expression in
+          the Therapeutic Dyad During Insight Episodes"
 
     Publications:
-      - title: Influence of sleepiness, quantity and quality of sleep on academic performance in adolescent students of a Colombian public institution.
+      - title:
+          "Influence of sleepiness, quantity and quality of sleep on academic
+          performance in adolescent students of a Colombian public
+          institution."
         authors:
-          - Dıaz, D., Gyr, E., Quispe, A., Aguilar Mendoza, L. 
+          - Dıaz, D., Gyr, E., Quispe, A., Aguilar Mendoza, L.
         publisher: Journal of Education and Health Promotion.
         releaseDate: 2026
         url: Accepted manuscript
 
-      - title:  Neuroprotective effect of Mauritia flexuosa on a unilateral 6-OHDA-induced Parkinson’s disease in rats. 
+      - title:
+          "Neuroprotective effect of Mauritia flexuosa on a unilateral
+          6-OHDA-induced Parkinson's disease in rats."
         authors:
-          - Gyr, E., Ramos, D., Munoz, A., Best, I., Aguilar, L. 
+          - Gyr, E., Ramos, D., Munoz, A., Best, I., Aguilar, L.
         publisher: Revista Colombiana de Ciencias Quımico Farmaceuticas
         releaseDate: 2024
         url: https://doi.org/10.15446/rcciquifa.v53n3.119217
 
-      - title: Normative data of the Spanish version of the Montreal Cognitive Assessment (MoCA) in older individuals from Peru.
+      - title:
+          "Normative data of the Spanish version of the Montreal Cognitive
+          Assessment (MoCA) in older individuals from Peru."
         authors:
-          - Bulgarelli, L., Gyr, E., Villanueva, J., Mejia, K., Mejia, C., Paredes, R., Blumen, S.
+          - Bulgarelli, L., Gyr, E., Villanueva, J., Mejia, K., Mejia, C.,
+              Paredes, R., Blumen, S.
         publisher: Dementia & Neuropsychologia
         releaseDate: 2025
         url: https://doi.org/10.1590/1980-5764-DN-2024-0261
-        
+
     Skills:
       - name: Python
         level: Intermediate
-        
+
       - name: Pychopy, Pavlovia, LaTex
         level: Master
-        
+
     Languages:
       - name: Spanish
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
-        
+
       - name: German
         summary: "Intermediate"
 
     Certificates:
-      - name: Behavioral Neuroscience and Behavioral Disorders School 
+      - name: Behavioral Neuroscience and Behavioral Disorders School
         date: 09-2024
         issuer: IBRO
         icon: fa-solid fa-location-dot
 
-      - name: Monitoring and manipulating the affective state: new perspectives on neurotechnologies and AI tools
+      - name:
+          "Monitoring and manipulating the affective state: new perspectives
+          on neurotechnologies and AI tools"
         date: 08-2024
-        issuer: FENS – Chen Institute – NeuroL´eman Summer School 
+        issuer: FENS – Chen Institute – NeuroLéman Summer School
         icon: fa-solid fa-tag
 
       - name: Computational neuroscience
