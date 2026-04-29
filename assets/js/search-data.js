@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/photo-gallery/";
           
         },
+      },{id: "post-pucp-leads-pioneering-study-on-complex-post-traumatic-stress-disorder-c-ptsd-in-female-survivors-of-violence",
+        
+          title: "PUCP leads pioneering study on Complex Post-Traumatic Stress Disorder (C-PTSD) in female survivors...",
+        
+        description: "Press Release",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/code/";
+          
+        },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -72,17 +83,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/disqus-comments/";
-          
-        },
-      },{id: "post-pucp-leads-pioneering-study-on-complex-post-traumatic-stress-disorder-c-ptsd-in-female-survivors-of-violence",
-        
-          title: "PUCP leads pioneering study on Complex Post-Traumatic Stress Disorder (C-PTSD) in female survivors...",
-        
-        description: "Press Release",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
