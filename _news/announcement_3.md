@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-04-29 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+We will present on the 2026 Neuropsychoanalitical Congress! :sparkles: :smile: 
+Check the event here: https://npsa-association.org/events/npsa-congress-2026-barcelona/
