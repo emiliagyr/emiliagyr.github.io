@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-presentation-at-the-40th-interamerican-congress-of-psychology",
         
-          title: "",
+          title: "Presentation at the 40th Interamerican Congress of Psychology",
         
-        description: "",
+        description: "Project Overview: Neurocomputational Profiling of C-PTSD",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-07-14-CIP/";
+            window.location.href = "/blog/2025/CIP/";
           
         },
       },{id: "post-best-poster-price",
