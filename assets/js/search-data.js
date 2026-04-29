@@ -74,17 +74,6 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
       },{id: "news-we-are-presenting-a-symposium-in-the-npsa-2026-barcelona",
           title: 'We are presenting a Symposium in the NPSA 2026 Barcelona!',
           description: "",
