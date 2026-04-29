@@ -74,11 +74,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/disqus-comments/";
           
         },
-      },{id: "post-a-post-with-code",
+      },{id: "post-pucp-leads-pioneering-study-on-complex-post-traumatic-stress-disorder-c-ptsd-in-female-survivors-of-violence",
         
-          title: "a post with code",
+          title: "PUCP leads pioneering study on Complex Post-Traumatic Stress Disorder (C-PTSD) in female survivors...",
         
-        description: "an example of a blog post with some code",
+        description: "Press Release",
         section: "Posts",
         handler: () => {
           
