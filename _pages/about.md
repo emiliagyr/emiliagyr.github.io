@@ -10,9 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>gyr.emilia@gmail.com</p>
-    <p>Peru: +51 984165422</p>
-    <p>Germany: +49 1575 5047718</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -44,6 +42,8 @@ Psychologist & Neuroscience Researcher Emilia Gyr is a psychologist and early-ca
 researcher specializing in the study of emotions, social interaction, and their
 neurobiological foundations. She brings together expertise in clinical psychology,
 psychoanalysis, and neuroscience research.
+
+She holds a MSc in Neuroscience from the Universidad Peruana Cayetano Heredia, a MA in Psychoanalitic Clinical Intervention from Pontificia Universidad Católica del Perú, and a BA in Clinical Psychology.
 
 Link [linkedin](https://www.linkedin.com/in/emilia-gyr-4bb0a4ab/).
 
