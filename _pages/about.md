@@ -12,7 +12,7 @@ profile:
   more_info: >
 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -45,4 +45,12 @@ As a licensed psychologist (C.Ps.P. 36639), I integrate these neuropsychoanalyti
 If you are interested in scheduling a psychotherapy session, please feel free to reach out directly via WhatsApp.
 
 Click here to book a session. [Whatsapp](https://wa.me/qr/Q62B6YR2E6GMJ1).
+
+#Español
+
+Soy psicóloga e investigadora especializada en el estudio de las emociones, la interacción social y sus fundamentos neurobiológicos. Tiendo un puente entre la teoría y la práctica, integrando mi experiencia en psicología clínica, psicoanálisis e investigación en neurociencias (Maestría en Neurociencias por la UPCH y Maestría en Intervención Clínica Psicoanalítica por la PUCP).
+
+Como psicóloga colegiada (C.Ps.P. 36639), integro estos conocimientos neuropsicoanalíticos en mi práctica clínica diaria para acompañar a mis pacientes en su proceso.
+
+Si estás interesada/o en programar una sesión de psicoterapia, no dudes en contactarme directamente vía [Whatsapp](https://wa.me/qr/Q62B6YR2E6GMJ1).
 
