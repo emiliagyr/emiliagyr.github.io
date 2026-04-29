@@ -79,10 +79,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-we-will-present-on-the-2026-neuropsychoanalitical-congress-sparkles-smile-check-the-event-here-https-npsa-association-org-events-npsa-congress-2026-barcelona",
-          title: 'We will present on the 2026 Neuropsychoanalitical Congress! :sparkles: :smile: Check the event...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
