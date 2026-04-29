@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/CV_2026.pdf # path to your CV PDF file
 email: gyr.emilia@gmail.com # your email address
-rss_icon: false # comment this line to hide the RSS icon
+# rss_icon: false # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # 51984165422 (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 
