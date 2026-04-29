@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Best Poster Price
-date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
+date: 2025-06-19 01:59:00
+description: Best Poster Award at the Neuropsychoanalysis Association (NPSA) Congress
 tags: formatting images
 categories: sample-posts
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/6518114d-5f84-4959-9402-a3decd249f25.jpeg
 images:
   lightbox2: false
   photoswipe: false
