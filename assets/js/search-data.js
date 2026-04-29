@@ -74,10 +74,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-we-are-presenting-a-symposium-in-the-npsa-2026-barcelona",
+      },{id: "news-we-are-presenting-a-symposium-in-the-npsa-2026-barcelona",
           title: 'We are presenting a Symposium in the NPSA 2026 Barcelona!',
           description: "",
           section: "News",handler: () => {
