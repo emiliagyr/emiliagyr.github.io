@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: We are presenting a Symposium in the NPSA 2026 Barcelona!
 date: 2026-04-20 16:11:00-0400
 inline: false
 related_posts: false
