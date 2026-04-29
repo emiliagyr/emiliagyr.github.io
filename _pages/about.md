@@ -38,12 +38,11 @@ bookshelf:
   enabled: false # hide bookshelf section
 ---
 
-Psychologist & Neuroscience Researcher Emilia Gyr is a psychologist and early-career
-researcher specializing in the study of emotions, social interaction, and their
-neurobiological foundations. She brings together expertise in clinical psychology,
-psychoanalysis, and neuroscience research.
+I am a Psychologist and researcher specializing in the study of emotions, social interaction, and their neurobiological foundations. I bridge the gap between theory and practice, bringing together my expertise in clinical psychology, psychoanalysis, and neuroscience research (MSc in Neuroscience from UPCH, MA in Psychoanalytic Clinical Intervention from PUCP).
 
-She holds a MSc in Neuroscience from the Universidad Peruana Cayetano Heredia, a MA in Psychoanalitic Clinical Intervention from Pontificia Universidad Católica del Perú, and a BA in Clinical Psychology.
+As a licensed psychologist (C.Ps.P. 36639), I integrate these neuropsychoanalytic insights into my daily clinical practice to support my patients in their path toward subjective transformation.
 
-Link [linkedin](https://www.linkedin.com/in/emilia-gyr-4bb0a4ab/).
+If you are interested in scheduling a psychotherapy session, please feel free to reach out directly via WhatsApp.
+
+Click here to book a session. [Whatsapp](https://wa.me/qr/Q62B6YR2E6GMJ1).
 
