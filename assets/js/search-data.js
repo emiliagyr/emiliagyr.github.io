@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-best-poster-price",
         
-          title: "a post with image galleries",
+          title: "Best Poster Price",
         
         description: "this is what included image galleries could look like",
         section: "Posts",
