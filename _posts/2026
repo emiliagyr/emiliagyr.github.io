@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Best Poster Price
-date: 2025-06-19 01:59:00
+title: Presentation at the 40th Interamerican Congress of Psychology
+date: 2025-07-14 01:59:00
 description: Best Poster Award at the Neuropsychoanalysis Association (NPSA) Congress
 tags: formatting images
 categories: sample-posts
@@ -13,103 +13,35 @@ images:
   venobox: false
 ---
 
-I am honored and excited to share that I received the Best Poster Award at the Neuropsychoanalysis Association (NPSA) Congress held in New York this past June 2025.
+This past July, I had the honor of participating in the 40th Interamerican Congress of Psychology (40CIP), held in the vibrant city of San Juan, Puerto Rico. Under the theme "A Psychology for all the Americas," this event not only marked the Congress's return to the "Island of Enchantment" after three decades, but also served as a fundamental epicenter for interdisciplinary exchange across our region.
 
-It was an incredible experience to present our work on the integration of micro- and macro-process approaches to psychic change. Engaging with such a brilliant community of researchers and clinicians and receiving this recognition from the NPSA is truly a highlight of my academic career.
+Project Overview: Neurocomputational Profiling of C-PTSD
 
-A special thank you to my colleagues and mentors who supported this research. I am looking forward to continuing our work in bridging the gap between clinical practice and neuroscientific perspectives.
+The project aims to move beyond symptomatic diagnosis by leveraging the Research Domain Criteria (RDoC) framework, shifting the focus toward biological and behavioral mechanisms. By integrating computational modeling with traditional clinical measures, the team seeks to identify the "signatures" of trauma in women exposed to repetitive violence.
 
-#NPSA #Neuropsychoanalysis #PsychotherapyResearch #AcademicAchievement #NewYork #Psychology
+Key Components of the Research
+
+Clinical Framework: The study distinguishes C-PTSD from traditional PTSD, focusing on the pervasive effects of chronic, repetitive trauma—such as domestic violence—on self-concept and affective regulation.
+
+Methodological Innovation: The research employs a tripartite strategy:
+
+Computational Modeling (Two-Bandit Task): Utilizes Reinforcement Learning algorithms to analyze decision-making processes under uncertainty.
+
+Electrophysiology (Auditory Oddball Task): Uses ERPs (Event-Related Potentials) to capture neural responses to sensory stimuli.
+
+Phenomenological Assessment (3D Body Image Scale): Explores the somatic and self-perception dimensions of trauma.
+
+#40CIP #InteramericanPsychology #MentalHealth #PsychologyResearch #ClinicalPsychology
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/6518114d-5f84-4959-9402-a3decd249f25.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_1436.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_1160.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_1477.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Photos from the congress, poster presentation and Mark Solms.
 </div>
 
-## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
-
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
-
----
-
-## [PhotoSwipe](https://photoswipe.com/)
-
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-    data-pswp-width="1669"
-    data-pswp-height="2500"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
-  </a>
-  <!-- cropped thumbnail: -->
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg"
-    data-pswp-width="1875"
-    data-pswp-height="2500"
-    data-cropped="true"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt="" />
-  </a>
-  <!-- data-pswp-src with custom URL in href -->
-  <a href="https://unsplash.com"
-    data-pswp-src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"
-    data-pswp-width="2500"
-    data-pswp-height="1666"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" alt="" />
-  </a>
-  <!-- wrapped with any element: -->
-  <div>
-    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"
-      data-pswp-width="2500"
-      data-pswp-height="1667"
-      target="_blank">
-      <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" alt="" />
-    </a>
-  </div>
-</div>
-
----
-
-## [Spotlight JS](https://nextapps-de.github.io/spotlight/)
-
-<!-- Group 1 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
-    </a>
-</div>
-<!-- Group 2 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" />
-    </a>
-</div>
-
----
-
-## [Venobox](https://veno.es/venobox/)
-
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
