@@ -1,56 +1,62 @@
 ---
 layout: about
-title: about
+title: Inicio
 permalink: /
-subtitle:
-  <a href='#'>Clinical psychologist</a>. Pontificia Universidad Católica del Perú
+subtitle: "Psicóloga Emilia Gyr | Espacio de Psicoterapia"
 
 profile:
   align: right
-  image: foto.png
-  image_circular: true # crops the image to make it circular
+  image: prof_pic.jpg # Reemplaza con el nombre de tu foto guardada en /assets/img/
+  image_circular: true # Falso si prefieres la foto cuadrada, verdadero para circular
   more_info: >
-
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
-
-repositories:
-  enabled: false # hide repositories section
-
-teaching:
-  enabled: false # hide teaching section
-
-people:
-  enabled: false # hide people section
-
-bookshelf:
-  enabled: false # hide bookshelf section
+    <p><b>Contacto Directo:</b></p>
+    <p>✉️ <a href="mailto:gyr.emilia@gmail.com">gyr.emilia@gmail.com</a></p>
+    <p>🇵🇪 +51 984165422</p>
+    <p>🇩🇪 +49 15755047718</p>
 ---
 
-I am a Psychologist and researcher specializing in the study of emotions, social interaction, and their neurobiological foundations. I bridge the gap between theory and practice, bringing together my expertise in clinical psychology, psychoanalysis, and neuroscience research (MSc in Neuroscience from UPCH, MA in Psychoanalytic Clinical Intervention from PUCP).
+## Te doy la bienvenida a tu espacio de bienestar
 
-As a licensed psychologist (C.Ps.P. 36639), I integrate these neuropsychoanalytic insights into my daily clinical practice to support my patients in their path toward subjective transformation.
+Tomar la decisión de empezar un proceso terapéutico es el primer paso hacia una vida más consciente y en equilibrio. Mi objetivo es brindarte un lugar seguro, libre de juicios y confidencial, donde podamos trabajar en conjunto para entender tus emociones, superar tus dificultades y desarrollar herramientas prácticas para tu día a día.
 
-If you are interested in scheduling a psychotherapy session, please feel free to reach out directly via WhatsApp.
+A través de la **modalidad online**, te ofrezco un acompañamiento profesional y flexible que se adapta a tus tiempos y ritmo de vida, sin importar dónde te encuentres.
 
-Click here to book a session. [Whatsapp](https://wa.me/qr/Q62B6YR2E6GMJ1).
+---
 
-**Español**
+<!-- BLOQUE DEL BOTÓN GRANDE Y LLAMATIVO -->
+<div class="text-center my-5 py-2">
+  <a href="https://wa.me/51984165422" target="_blank" class="btn btn-lg btn-success px-5 py-3 font-weight-bold shadow transition-all" style="font-size: 1.35rem; border-radius: 50px; background-color: #25D366; border-color: #25D366; color: white;">
+    <i class="fab fa-whatsapp mr-2"></i> 🗓️ Agenda tu primera sesión aquí
+  </a>
+  <small class="d-block text-muted mt-2">Haz clic para escribirme directamente por WhatsApp y coordinar un horario</small>
+</div>
+---
+
+### ¿Cómo te puedo ayudar?
 
 Soy psicóloga e investigadora especializada en el estudio de las emociones, la interacción social y sus fundamentos neurobiológicos. Tiendo un puente entre la teoría y la práctica, integrando mi experiencia en psicología clínica, psicoanálisis e investigación en neurociencias (Maestría en Neurociencias por la UPCH y Maestría en Intervención Clínica Psicoanalítica por la PUCP).
 
 Como psicóloga colegiada (C.Ps.P. 36639), integro estos conocimientos neuropsicoanalíticos en mi práctica clínica diaria para acompañar a mis pacientes en su proceso.
 
-Si estás interesada/o en programar una sesión de psicoterapia, no dudes en contactarme directamente vía [Whatsapp](https://wa.me/qr/Q62B6YR2E6GMJ1).
+- **Gestión de la Ansiedad y el Estrés:** Herramientas para recuperar la calma y entender las señales de tu cuerpo.
+- **Procesos de Adaptación y Migración:** Apoyo psicológico especializado si estás experimentando el reto de vivir en el extranjero o afrontando grandes cambios de vida.
+- **Crecimiento Personal y Manejo Emocional:** Espacio para comprender tus patrones de conducta y mejorar tus relaciones interpersonales.
+
+### ¿Cómo es trabajar conmigo?
+
+1. **Sesiones Personalizadas:** Cada sesión dura aproximadamente 45 minutos y está enfocada completamente en tus objetivos individuales.
+2. **Enfoque Basado en la Evidencia:** Trabajo desde una perspectiva profesional que combina el psicoanálisis con herramientas respaldadas por la neurociencia.
+3. **Flexibilidad y Comodidad:** Conéctate desde la comodidad de tu casa mediante plataformas seguras (Zoom o Google Meet).
+
+---
+
+### ¿Tienes alguna duda antes de empezar?
+Si deseas consultar por tarifas, horarios disponibles o conocer más sobre mi forma de trabajo, no dudes en escribirme. Estoy aquí para acompañarte.
+
+<div class="text-center my-4">
+  <p class="mb-1"><b>¿Prefieres usar tu número de Alemania?</b></p>
+  <a href="https://wa.me/4915755047718" target="_blank" class="btn btn-sm btn-outline-secondary">
+    Escríbeme al número de Alemania (+49)
+  </a>
+</div>
 
