@@ -15,7 +15,7 @@ profile:
     <p>🇩🇪 +49 15755047718</p>
 ---
 
-# 🇬🇧 English Version
+### 🇬🇧 English Version / (versión en español abajo)
 
 ## Welcome to your space
 
@@ -67,7 +67,7 @@ If you would like to inquire about rates, available schedules, or learn more abo
 <hr style="border: 2px solid #ccc;">
 <br><br>
 
-# 🇪🇸 Versión en Español
+### 🇪🇸 Versión en Español
 
 ## Bienvenida/o a tu espacio
 
