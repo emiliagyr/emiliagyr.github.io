@@ -179,3 +179,18 @@ enable_project_categories: false
 enable_medium_zoom: true 
 enable_progressbar: true 
 enable_video_embedding: false
+
+# configuration of third party libraries
+third_party_libraries:
+  alerts: true
+  bootstrap-table: true
+  code_folding: false
+  diff2html: false
+  images: true
+  jquery: true
+  mathjax: true
+  masonry: true
+  medium_zoom: true
+  mermaid: false
+  slick: false
+  swiper: false
