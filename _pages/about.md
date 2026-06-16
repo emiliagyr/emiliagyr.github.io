@@ -15,7 +15,7 @@ profile:
     <p>🇩🇪 +49 15755047718</p>
 ---
 
-## Te doy la bienvenida a tu espacio de bienestar
+## Bienvenida/o a tu espacio
 
 Tomar la decisión de empezar un proceso terapéutico es el primer paso hacia una vida más consciente y en equilibrio. Mi objetivo es brindarte un lugar seguro, libre de juicios y confidencial, donde podamos trabajar en conjunto para entender tus emociones, superar tus dificultades y desarrollar herramientas prácticas para tu día a día.
 
