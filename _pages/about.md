@@ -6,7 +6,7 @@ subtitle: "Clinical Psychologist | Psychotherapy Space"
 
 profile:
   align: right
-  image: foto.jpg # Reemplaza con el nombre de tu foto guardada en /assets/img/
+  image: foto.png # Reemplaza con el nombre de tu foto guardada en /assets/img/
   image_circular: true # Falso si prefieres la foto cuadrada, verdadero para circular
   more_info: >
     <p><b>Direct Contact:</b></p>
