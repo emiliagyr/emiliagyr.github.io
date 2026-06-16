@@ -55,8 +55,8 @@ og_image: assets/img/perfil.jpg # Sube una foto tuya a esa ruta para la vista pr
 # Blog (Tu espacio de divulgación sobre salud mental)
 # -----------------------------------------------------------------------------
 
-blog_name: Espacio de Reflexión
-blog_description: Artículos y recursos sobre psicología, neurociencia y bienestar emocional.
+blog_name: Activities & events
+blog_description: Psychology and neuroscience.
 permalink: /blog/:year/:title/
 lsi: false 
 
