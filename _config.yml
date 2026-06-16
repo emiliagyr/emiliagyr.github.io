@@ -39,7 +39,7 @@ footer_fixed: false # Falso para que el footer no tape contenido en pantallas pe
 search_enabled: false # Desactivado para un enfoque de servicios más limpio
 socials_in_search: false
 posts_in_search: false
-bib_search: false
+bib_search: true
 
 # Dimensions
 max_width: 930px
@@ -148,6 +148,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-socials
   - jekyll-tabs
@@ -163,6 +164,16 @@ defaults:
 
 sass:
   style: compressed
+
+# Scholar settings for bibliography
+scholar:
+  style: apa
+  locale: en
+  sort_by: year
+  order: descending
+  source: _bibliography
+  bibliography: references.bib
+  bibliography_template: bib
 
 # -----------------------------------------------------------------------------
 # Optional Features
