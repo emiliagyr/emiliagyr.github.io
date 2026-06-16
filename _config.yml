@@ -14,7 +14,7 @@ footer_text: >
   © 2026 Emilia Gyr. Todos los derechos reservados.
 keywords: psicologa online, psicoterapia, salud mental, apoyo psicologico, bienestar emocional, emilia gyr
 lang: es # Cambiado a español para que los textos automáticos del tema se traduzcan
-icon: assets/img/favicon.png 
+favicon: favicon.png 
 
 url: https://emiliagyr.github.io 
 baseurl: 
