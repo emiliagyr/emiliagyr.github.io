@@ -259,3 +259,14 @@ ul.task-list input[type="checkbox"] {
 .d2h-diff-table {
   position: relative;
 }
+
+/* Estilo Emilia Gyr */
+.post .post-title { font-size: 2.2rem; font-weight: 600; color: var(--global-hover-color); }
+.post .desc, .post .post-description { color: var(--global-text-color-light); font-size: 1.1rem; }
+.post article h2 { font-size: 1.6rem; font-weight: 600; margin-top: 2.2rem; color: var(--global-hover-color); }
+.profile .more-info { font-family: inherit; font-size: 0.95rem; color: var(--global-text-color-light); }
+.post article a.btn {
+  background: var(--global-theme-color); color: var(--global-bg-color);
+  border: 0; border-radius: 999px; padding: .6rem 1.4rem; font-weight: 600; margin: 0 .4rem .4rem 0;
+}
+.post article a.btn:hover { background: var(--global-hover-color); color: var(--global-bg-color); text-decoration: none; }
