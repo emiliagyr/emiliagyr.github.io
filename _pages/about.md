@@ -10,7 +10,7 @@ profile:
   image: perfil.jpg
   image_circular: true
   more_info: >
-    <p>Terapia online en español</p>
+    <p>Terapia online en español o inglés</p>
     <p>Horario de Perú y Alemania</p>
 news: false
 latest_posts: false
@@ -18,9 +18,9 @@ selected_papers: false
 social: false
 ---
 
-## Terapia online en español o ingles
+## Terapia online en español o inglés
 
-Tomar la decisión de empezar un proceso terapéutico es el primer paso hacia una vida más consciente y en equilibrio. Te ofrezco un espacio seguro, confidencial y sin juicios para entender tus emociones, superar tus dificultades y desarrollar herramientas prácticas para tu día a día.
+Tomar la decisión de empezar un proceso terapéutico es el primer paso hacia una vida más consciente y en equilibrio. Te ofrezco un espacio seguro, confidencial y sin juicios para entender tus emociones, superar las dificultades y desarrollar herramientas para tu día a día.
 
 <a href="https://wa.me/51984165422" class="btn btn-lg z-depth-0" role="button" target="_blank" rel="noopener">WhatsApp Perú</a>
 <a href="https://wa.me/4915755047718" class="btn btn-lg z-depth-0" role="button" target="_blank" rel="noopener">WhatsApp Alemania</a>
