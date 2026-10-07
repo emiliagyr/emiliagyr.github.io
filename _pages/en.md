@@ -2,14 +2,14 @@
 layout: page
 title: English
 permalink: /en/
-description: Online therapy in Spanish for people living far from home.
+description: Online therapy in Spanish or English
 nav: true
 nav_order: 2
 ---
 
-## Online therapy in Spanish for those living far from home
+## Online therapy in Spanish or English
 
-Deciding to start therapy is the first step toward a more conscious and balanced life. I offer a safe, confidential, judgment-free space to understand your emotions, work through difficulties and build practical tools for daily life.
+Deciding to start therapy is the first step toward a more conscious and balanced life. I offer a safe, confidential, judgment-free space to understand your emotions, work through difficulties and build tools for daily life.
 
 <a href="https://wa.me/51984165422" class="btn btn-lg z-depth-0" role="button" target="_blank" rel="noopener">WhatsApp Peru</a>
 <a href="https://wa.me/4915755047718" class="btn btn-lg z-depth-0" role="button" target="_blank" rel="noopener">WhatsApp Germany</a>
