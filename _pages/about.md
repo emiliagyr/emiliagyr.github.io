@@ -18,7 +18,7 @@ selected_papers: false
 social: false
 ---
 
-## Terapia online en español para quienes viven lejos de casa
+## Terapia online en español o ingles
 
 Tomar la decisión de empezar un proceso terapéutico es el primer paso hacia una vida más consciente y en equilibrio. Te ofrezco un espacio seguro, confidencial y sin juicios para entender tus emociones, superar tus dificultades y desarrollar herramientas prácticas para tu día a día.
 
