@@ -50,6 +50,18 @@ a{color:inherit}
 .nav{display:flex;align-items:center;gap:20px}
 .lang{font:inherit;font-size:.9rem;font-weight:500;padding:6px 16px;border-radius:999px;border:1.5px solid var(--accent);background:transparent;color:var(--ink);cursor:pointer}
 .lang:hover{background:var(--soft)}
+[hidden]{display:none!important}
+.top{flex-wrap:wrap}
+a.brand{color:inherit;text-decoration:none}
+.sec{font-size:1.5rem;margin:48px 0 8px}
+.entry{display:grid;grid-template-columns:150px 1fr;gap:8px 32px;padding:20px 0;border-top:1px solid var(--line)}
+.entry .when{color:var(--muted);font-size:.95rem}
+.entry h3{font-size:1.25rem}
+.entry p{margin:0 0 .4em;color:var(--muted)}
+.entry .org{font-weight:500;color:var(--accent)}
+.pubs{list-style:none;margin:0;padding:0;display:grid;gap:16px;max-width:760px}
+.pubs li{color:var(--muted);font-size:.97rem;padding-top:16px;border-top:1px solid var(--line)}
+@media (max-width:760px){.entry{grid-template-columns:1fr}}
 
 .hero{padding:48px 0 80px;display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
 .hero .lead{font-size:1.15rem;color:var(--muted);margin:24px 0 32px}
@@ -102,10 +114,11 @@ footer p{max-width:70ch}
 <body>
 <div class="wrap">
   <header class="top">
-    <span class="brand">Emilia Gyr</span>
-    <span class="nav"><a class="link" href="#contacto">Contacto</a><button class="lang" type="button" aria-label="Switch to English">English</button></span>
+    <a class="brand" href="#inicio">Emilia Gyr</a>
+    <span class="nav"><a class="link" href="#trayectoria">Trayectoria y CV</a><a class="link" href="#contacto">Contacto</a><button class="lang" type="button" aria-label="Switch to English">English</button></span>
   </header>
 
+  <div id="view-home">
   <section class="hero">
     <div>
       <h1>Entender lo que se repite en tus relaciones</h1>
@@ -167,7 +180,7 @@ footer p{max-width:70ch}
       <div>
         <h2>Sobre mí</h2>
         <p>Soy Emilia Gyr, psicóloga colegiada en el Colegio de Psicólogos del Perú (C.Ps.P. 36639).</p>
-        <p>Tengo un máster en Psicoterapia Psicoanalítica y Neurociencias. Mi trabajo se centra en adultos que sufren por sus emociones, su ansiedad o por la manera en que se vinculan con los demás.</p>
+        <p>Tengo una maestría en Intervención Clínica Psicoanalítica y otra en Neurociencia. Mi trabajo se centra en adultos que sufren por sus emociones, su ansiedad o por la manera en que se vinculan con los demás.</p>
       </div>
       <dl>
         <dt>Formato</dt><dd>Videollamada</dd>
@@ -208,6 +221,49 @@ footer p{max-width:70ch}
       </div>
     </div>
   </section>
+  </div>
+
+  <div id="view-cv" hidden>
+    <section class="band" id="trayectoria">
+      <h2>Trayectoria profesional</h2>
+      <p>Mi formación combina la clínica psicoanalítica y la neurociencia. Atiendo en consulta desde 2020 y soy docente en la PUCP.</p>
+      <h3 class="sec">Formación</h3>
+      <div class="entry"><div class="when">2021 – 2025</div><div><h3>Maestría en Intervención Clínica Psicoanalítica</h3><p class="org">Pontificia Universidad Católica del Perú (PUCP)</p><p>Graduada con honores.</p><p>Tesis: análisis de la expresión gestual afectiva y la mentalización en los episodios de cambio en un caso de psicoterapia psicoanalítica focal, desde la díada paciente-terapeuta.</p></div></div>
+      <div class="entry"><div class="when">2019 – 2023</div><div><h3>Maestría en Neurociencia</h3><p class="org">Universidad Peruana Cayetano Heredia (UPCH)</p><p>Tesis: efecto de la macamida sintética MACOMCH-01 sobre los síntomas parkinsonianos en un modelo de rata con haloperidol, dentro de un proyecto multidisciplinario financiado por FONDECYT y el Banco Mundial.</p></div></div>
+      <div class="entry"><div class="when">2012 – 2018</div><div><h3>Licenciatura en Psicología Clínica</h3><p class="org">Pontificia Universidad Católica del Perú (PUCP)</p><p>Colegiada en el Colegio de Psicólogos del Perú, C.Ps.P. 36639.</p><p>Tesis: vínculo parental, agencia personal y empoderamiento en estudiantes de una universidad privada de Lima.</p></div></div>
+
+      <h3 class="sec">Experiencia clínica</h3>
+      <div class="entry"><div class="when">2020 – actualidad</div><div><h3>Psicóloga clínica independiente</h3><p>Psicoterapia psicodinámica.</p></div></div>
+      <div class="entry"><div class="when">2020 – 2021</div><div><h3>Psicóloga clínica</h3><p class="org">Hospital de la Fuerza Aérea del Perú “Las Palmas”</p><p>Evaluación y orientación de personal egresado de escuelas militares y diseño de un programa de evaluación de reclutas del servicio militar voluntario.</p></div></div>
+      <div class="entry"><div class="when">2019 – 2020</div><div><h3>Interna de psicología</h3><p class="org">Hospital Víctor Larco Herrera</p><p>Evaluación clínica y psicoterapia individual con adultos con esquizofrenia, bipolaridad, inestabilidad emocional y adicciones. Creación de talleres de psicodrama.</p></div></div>
+
+      <h3 class="sec">Docencia e investigación</h3>
+      <div class="entry"><div class="when">2025 – actualidad</div><div><h3>Docente a tiempo parcial</h3><p class="org">Pontificia Universidad Católica del Perú (PUCP)</p><p>Neuroimagen, procesos cognitivos, neurociencia del comportamiento, neuropsicología y seminario de tesis, en pregrado y maestría.</p></div></div>
+      <div class="entry"><div class="when">2022 – 2025</div><div><h3>Asistente de docencia</h3><p class="org">Pontificia Universidad Católica del Perú (PUCP)</p><p>Neurociencia del comportamiento, construcción de instrumentos psicológicos e investigación experimental y estadística.</p></div></div>
+      <div class="entry"><div class="when">2024 – 2026</div><div><h3>Asistente de investigación</h3><p class="org">Max Planck Neurogenetics Research Unit, Fráncfort, Alemania</p><p>Inmunohistoquímica, microscopía de fluorescencia y genotipado; proyecto sobre biomarcadores moleculares de la enfermedad de Alzheimer en Octodon degus. Curso FELASA en manejo de roedores.</p></div></div>
+      <div class="entry"><div class="when">2023 – 2025</div><div><h3>Asistente de laboratorio</h3><p class="org">Laboratorio de Neurociencia Cognitiva Computacional, PUCP</p><p>Asistencia técnica y asesoría metodológica sobre el uso de equipos (EEG, audiómetro y pulsómetro), desarrollo de material instruccional, diseño de capacitaciones, formación de voluntarios y redacción de proyectos y postulación a fondos.</p></div></div>
+      <div class="entry"><div class="when">2021 – 2022</div><div><h3>Asistente de investigación</h3><p class="org">Laboratorio de Neurociencias, Universidad Andina del Cusco</p><p>Manejo de ratones, pruebas de comportamiento (nado forzado y laberinto en cruz elevado) y extracción y limpieza de ARN para qPCR.</p></div></div>
+      <div class="entry"><div class="when">2020 – 2022</div><div><h3>Asistente de investigación</h3><p class="org">Universidad San Ignacio de Loyola</p><p>Investigación sobre el efecto de la pulpa de Mauritia flexuosa (aguaje) en la citotoxicidad inducida por un modelo de enfermedad de Parkinson en ratas.</p></div></div>
+      <div class="entry"><div class="when">2019 – 2020</div><div><h3>Asistente de investigación</h3><p class="org">Neuroscience and Behaviour Lab, UPCH</p><p>Manejo de ratas, cirugía estereotáxica, perfusión e inmunohistoquímica.</p></div></div>
+
+      <h3 class="sec">Publicaciones seleccionadas</h3>
+      <ul class="pubs">
+        <li>Gyr, E., Gargurevich, R., Dolly, A., Paredes, R. (2026). Female Sexual Subjectivity Inventory: Psychometric Properties in Two Samples of Peruvian Women from Lima. <em>Journal of Sex &amp; Marital Therapy</em>, 1–12.</li>
+        <li>Díaz, D., Gyr, E., Quispe, A., Aguilar Mendoza, L. (2026). Influence of sleepiness, quantity and quality of sleep on academic performance in adolescent students of a Colombian public institution. <em>Journal of Education and Health Promotion</em>, 15(1):278.</li>
+        <li>Gyr, E., Ramos, D., Muñoz, A., Best, I., Aguilar, L. (2024). Neuroprotective effect of Mauritia flexuosa on a unilateral 6-OHDA-induced Parkinson’s disease in rats. <em>Revista Colombiana de Ciencias Químico Farmacéuticas</em>, 53(3).</li>
+        <li>Bulgarelli, L., Gyr, E., Villanueva, J., Mejia, K., Mejia, C., Paredes, R., Blumen, S. (2024). Normative data of the Spanish version of the Montreal Cognitive Assessment (MoCA) in older individuals from Peru. <em>Dementia &amp; Neuropsychologia</em>, 19, e20240261.</li>
+      </ul>
+
+      <h3 class="sec">Cursos y escuelas</h3>
+      <div class="entry"><div class="when">2024</div><div><h3>IBRO Behavioral Neuroscience and Behavioral Disorders School</h3><p class="org">Montevideo, Uruguay</p><p>Bases neurobiológicas del comportamiento saludable y alterado; técnicas como registro de potenciales de campo local, PET/RM, pruebas conductuales, escalas psicométricas y cirugía estereotáxica.</p></div></div>
+      <div class="entry"><div class="when">2024</div><div><h3>FENS – Chen Institute – NeuroLéman Summer School</h3><p class="org">Lausana, Suiza</p><p>Monitoreo y manipulación del estado afectivo: nuevas perspectivas sobre neurotecnologías y herramientas de inteligencia artificial.</p></div></div>
+      <div class="entry"><div class="when">2022</div><div><h3>IBRO-LARCH Escuela peruana de investigación en neurociencia</h3><p class="org">Cusco, Perú</p><p>Participación como asistente de docencia en metodología de la investigación y cirugía estereotáxica.</p></div></div>
+
+      <h3 class="sec">Habilidades técnicas</h3>
+      <div class="entry"><div class="when">Programación</div><div><p>Python, R</p></div></div>
+      <div class="entry"><div class="when">Herramientas</div><div><p>PsychoPy, Pavlovia, GitHub, LaTeX</p></div></div>
+    </section>
+  </div>
 
   <footer>
     <p>Este servicio no atiende urgencias. Si estás en crisis o piensas en hacerte daño, acude a urgencias de tu zona o llama a la Línea 113 si estás en Perú.</p>
@@ -238,7 +294,7 @@ var P=[
 ["De vez en","From time to time we review how you are feeling in the process and whether the direction is still the one you need."],
 ["Sobre mí","About me"],
 ["Soy Emilia","I am Emilia Gyr, a licensed psychologist registered with the Colegio de Psicólogos del Perú (C.Ps.P. 36639)."],
-["Tengo un máster","I hold a master’s degree in Psychoanalytic Psychotherapy and Neuroscience. My work focuses on adults who struggle with their emotions, their anxiety, or the way they relate to others."],
+["Tengo una maestría","I hold a master’s degree in Psychoanalytic Clinical Intervention and another in Neuroscience. My work focuses on adults who struggle with their emotions, their anxiety, or the way they relate to others."],
 ["Formato","Format"],["Videollamada","Video call"],["Duración","Duration"],["45 minutos","45 minutes"],
 ["Atiendo a","I work with"],["Adultos","Adults"],["Idiomas","Languages"],["Español e inglés","Spanish and English"],
 ["Preguntas","Frequently asked questions"],
@@ -253,7 +309,54 @@ var P=[
 ["Agenda tu","Book your first session"],
 ["Cuéntame","Tell me briefly what you would like to work on and we will find a time. I will reply as soon as possible."],
 ["Este servicio","This service does not handle emergencies. If you are in crisis or thinking of harming yourself, go to your local emergency services or call Line 113 if you are in Peru."],
-["© 2026","© 2026 Emilia Gyr. Licensed psychologist, C.Ps.P. 36639."]
+["© 2026","© 2026 Emilia Gyr. Licensed psychologist, C.Ps.P. 36639."],
+["Trayectoria y","Background and CV"],
+["Trayectoria profesional","Professional background"],
+["Mi formación","My training combines psychoanalytic clinical work and neuroscience. I have seen patients in private practice since 2020 and I teach at the PUCP."],
+["Formación","Education"],
+["Maestría en Intervención","Master’s in Psychoanalytic Clinical Intervention"],
+["Maestría en Neurociencia","Master’s in Neuroscience"],
+["Licenciatura","Degree in Clinical Psychology"],
+["Graduada con","Graduated with honors."],
+["Colegiada en","Registered with the Colegio de Psicólogos del Perú, C.Ps.P. 36639."],
+["Experiencia clínica","Clinical experience"],
+["2020 – actualidad","2020 – present"],
+["2025 – actualidad","2025 – present"],
+["Psicóloga clínica independiente","Independent clinical psychologist"],
+["Psicoterapia psicodinámica","Psychodynamic psychotherapy."],
+["Psicóloga clínica","Clinical psychologist"],
+["Evaluación y orientación","Assessment and guidance of graduates of military schools, and design of an assessment program for voluntary military service recruits."],
+["Interna de","Psychology intern"],
+["Evaluación clínica","Clinical assessment and individual psychotherapy with adults with schizophrenia, bipolar disorder, emotional instability and addictions. Creation of psychodrama workshops."],
+["Docencia e","Teaching and research"],
+["Docente a","Part-time lecturer"],
+["Neuroimagen","Neuroimaging, cognitive processes, behavioral neuroscience, neuropsychology and thesis seminar, at undergraduate and master’s level."],
+["Asistente de docencia","Teaching assistant"],
+["Neurociencia del","Behavioral neuroscience, construction of psychological instruments, and experimental research and statistics."],
+["Asistente de investigación","Research assistant"],
+["Max Planck","Max Planck Neurogenetics Research Unit, Frankfurt, Germany"],
+["Inmunohistoquímica","Immunohistochemistry, fluorescence microscopy and genotyping; project on molecular biomarkers of Alzheimer’s disease in Octodon degus. FELASA course on rodent handling."],
+["Publicaciones","Selected publications"],
+["Tesis: análisis","Thesis: analysis of affective gestural expression and mentalization in episodes of change in a case of focal psychoanalytic psychotherapy, from the patient–therapist dyad."],
+["Tesis: efecto","Thesis: effect of the synthetic macamide MACOMCH-01 on parkinsonian symptoms in a haloperidol rat model, within a multidisciplinary project funded by FONDECYT and the World Bank."],
+["Tesis: vínculo","Thesis: parental bonding, personal agency and empowerment in students of a private university in Lima."],
+["Asistente de laboratorio","Laboratory assistant"],
+["Laboratorio de Neurociencia Cognitiva","Computational Cognitive Neuroscience Laboratory, PUCP"],
+["Laboratorio de Neurociencias","Neuroscience Laboratory, Universidad Andina del Cusco"],
+["Asistencia técnica","Technical support and methodological advice on the use of equipment (EEG, audiometer and pulsometer), development of instructional materials, design of training sessions, training of volunteers, and writing of projects and funding applications."],
+["Manejo de ratones","Mouse handling, behavioral tests (forced swim and elevated plus maze) and RNA extraction and purification for qPCR."],
+["Investigación sobre","Research on the effect of Mauritia flexuosa (aguaje) pulp on cytotoxicity induced in a rat model of Parkinson’s disease."],
+["Manejo de ratas","Rat handling, stereotaxic surgery, perfusion and immunohistochemistry."],
+["Cursos y","Courses and schools"],
+["IBRO-LARCH","IBRO-LARCH Peruvian School of Neuroscience Research"],
+["Lausana","Lausanne, Switzerland"],
+["Cusco, Perú","Cusco, Peru"],
+["Bases neurobiológicas","Neurobiological bases of healthy and altered behavior; techniques such as local field potential recording, PET/MRI, behavioral tests, psychometric scales and stereotaxic surgery."],
+["Monitoreo y manipulación","Monitoring and manipulating affective state: new perspectives on neurotechnologies and artificial intelligence tools."],
+["Participación como","Teaching assistant in research methodology and stereotaxic surgery."],
+["Habilidades","Technical skills"],
+["Programación","Programming"],
+["Herramientas","Tools"]
 ];
 var items=[],w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT),n,t,i;
 while((n=w.nextNode())){
@@ -281,6 +384,15 @@ function setLang(l){
 btn.addEventListener('click',function(){setLang(btn.getAttribute('data-l')==='en'?'es':'en');});
 var nl=(navigator.language||'es').slice(0,2).toLowerCase();
 setLang(nl==='en'?'en':'es');
+var vh=document.getElementById('view-home'),vc=document.getElementById('view-cv');
+function route(){
+  var h=location.hash,cv=(h==='#trayectoria'),e;
+  vh.hidden=cv;vc.hidden=!cv;
+  if(cv){window.scrollTo(0,0);}
+  else{e=(h.length>1)?document.getElementById(h.slice(1)):null;if(e){e.scrollIntoView();}else{window.scrollTo(0,0);}}
+}
+window.addEventListener('hashchange',route);
+route();
 })();
 </script>
 </body>
